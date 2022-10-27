@@ -35,7 +35,25 @@ We have used different types of layers according to their features namely:
 4. `Dense` (Dense layer produce the output as the dot product of input and kernel).
 
 ## Dataset 
-Kaggle: catherinehorng/dogbreedidfromcomp 
+Kaggle: catherinehorng/dogbreedidfromcomp : https://www.kaggle.com/catherinehorng/dogbreedidfromcomp
+
+## Illustration
+
+### Input
+
+![dog1](/home/parth/Parth/Repo/dog-breed-classification/bernese-mountain-dog-detail.png)
+
+![dog2](/home/parth/Parth/Repo/dog-breed-classification/image.png)
+
+### Output
+
+![interface](/home/parth/Parth/Repo/dog-breed-classification/streamlit_interface.png)
+
+![whole_system](/home/parth/Parth/Repo/dog-breed-classification/whole_system.png)
+
+![uploaded_image](/home/parth/Parth/Repo/dog-breed-classification/upload_image.png)
+
+![displayed_output](/home/parth/Parth/Repo/dog-breed-classification/displayed_image.png) 
 
 ## Summary
 We started with downloading the dataset creating the model and finding out the predictions using the model. We can optimize it using different hyper parameters in order to tune this model for a higher accuracy.
