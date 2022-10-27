@@ -55,5 +55,7 @@ Kaggle: catherinehorng/dogbreedidfromcomp : https://www.kaggle.com/catherinehorn
 
 ![displayed_output](displayed_image.png) 
 
+![output_image](output_image.png)
+
 ## Summary
 We started with downloading the dataset creating the model and finding out the predictions using the model. We can optimize it using different hyper parameters in order to tune this model for a higher accuracy.
