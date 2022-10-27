@@ -41,19 +41,19 @@ Kaggle: catherinehorng/dogbreedidfromcomp : https://www.kaggle.com/catherinehorn
 
 ### Input
 
-![dog1](/home/parth/Parth/Repo/dog-breed-classification/bernese-mountain-dog-detail.png)
+![dog1](bernese-mountain-dog-detail.png)
 
-![dog2](/home/parth/Parth/Repo/dog-breed-classification/image.png)
+![dog2](image.png)
 
 ### Output
 
-![interface](/home/parth/Parth/Repo/dog-breed-classification/streamlit_interface.png)
+![interface](streamlit_interface.png)
 
-![whole_system](/home/parth/Parth/Repo/dog-breed-classification/whole_system.png)
+![whole_system](whole_system.png)
 
-![uploaded_image](/home/parth/Parth/Repo/dog-breed-classification/upload_image.png)
+![uploaded_image](upload_image.png)
 
-![displayed_output](/home/parth/Parth/Repo/dog-breed-classification/displayed_image.png) 
+![displayed_output](displayed_image.png) 
 
 ## Summary
 We started with downloading the dataset creating the model and finding out the predictions using the model. We can optimize it using different hyper parameters in order to tune this model for a higher accuracy.
